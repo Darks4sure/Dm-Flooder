@@ -295,7 +295,7 @@ mainBot.on('messageCreate', async (message) => {
 });
 
 // Log in the main bot with your token
-mainBot.login('MTMxMTc4MjAyMDY0MDQwNzY0Mw.GS7IUI.3nkn-Yn7yi6rVuWjCnPmM4rup7wtsuxB-_mcU0')
+mainBot.login('UR MAINBOT TOKEN HERE')
   .then(() => {
     console.log('Main bot logged in successfully!');
   })
